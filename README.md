@@ -55,7 +55,3 @@ Copy **.env.dist** and add missing values
 - ERC1155 support
 - Percentage bid based on floor price
 - Bidding with other ERC-20 tokens
-## Support
-For any questions feel free to join the [discord](https://discord.gg/PFYzMfqVfk)
-## Donations
-For supporting my projects and keep them running, feel free to tip **tony-stark.eth**
